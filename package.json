@@ -15,7 +15,7 @@
     "md5": "^2.1.0",
     "mustache": "^2.2.1",
     "slash": "^1.0.0",
-    "sprite-builder": "github:Lavrend/sprite-builder",
+    "sprite-builder": "github:evavoevodin/sprite-builder",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
